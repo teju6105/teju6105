@@ -2,9 +2,9 @@ html
 <h1 align="center">Hey 👋 I'm Tejaswini S</h1>
 
 <p align="center">
-🎓 Computer Science Engineering Student at PES University, Bangalore <br>
-💻 Passionate about Software Development, Web Technologies, and Problem Solving <br>
-🚀 Continuously learning and building projects
+🎓 B.Tech Artificial Intelligence & Machine Learning Student at PES University, Bangalore
+🤖 Passionate about AI, Machine Learning, Software Development, and Problem Solving
+🚀 Continuously learning, building projects, and exploring new technologies
 </p>
 
 ---
