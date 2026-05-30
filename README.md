@@ -35,10 +35,9 @@
 👯 Open to collaborating on student and open-source projects<br>
 💬 Ask me about C, C++, Java, Web Development, and GitHub
 </p>
-
+<p align="left">
+📫 LinkedIn:https://www.linkedin.com/in/tejaswini-teju-2a3644367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app <br>
 <h2 align="left">Connect With Me</h2>
 
-<p align="left">
-📫 LinkedIn: Your LinkedIn Profile Link<br>
 📧 Email: Your Email Address
 </p>
