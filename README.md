@@ -1,4 +1,4 @@
-```html
+html
 <h1 align="center">Hey 👋 I'm Tejaswini S</h1>
 
 <p align="center">
