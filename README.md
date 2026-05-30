@@ -1,83 +1,44 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-###
-
-<p align="left">My name is Rohith k and I'm a Front-End Developer from India</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-## 💻 My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-  </tr>
-</table>
-</div>
-
-###
-<h2 align="left">Contact Information</h2>
-<div align="left">
-  <a href='https://www.linkedin.com/in/your link/' >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href='https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqsPqpZQlsvCxJGrzzlSWJsPZmxttLtRVNTQJqDVnKtbPxJgHLjdcftrRTpmkZRHLtLcL'>
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg' width="52" height="40" alt="gmail logo"  /> 
-  </a>
-  
-  
-</div>
 
 
+<h1 align="left">Hey 👋 I'm Tejaswini S</h1>
+
+<p align="left">
+🎓 Computer Science Engineering Student at PES University, Bangalore<br>
+💻 Passionate about Software Development, Web Technologies, and Problem Solving<br>
+🚀 Continuously learning and building projects
+</p>
+
+<h2 align="left">About Me</h2>
+
+<p align="left">
+✨ Turning ideas into code since 2023<br>
+📚 Currently learning Data Structures, Operating Systems, DBMS, and Web Development<br>
+🎯 Goal: To become a skilled Software Engineer and contribute to impactful projects<br>
+🌱 Exploring modern technologies and development practices<br>
+🎲 Fun Fact: I enjoy solving coding challenges and learning new technologies
+</p>
+
+<h2 align="left">Tech Stack</h2>
+
+<p align="left">
+💻 Languages: C, C++, Java, JavaScript<br>
+🌐 Web: HTML, CSS, PHP<br>
+🗄️ Database: MySQL<br>
+🛠️ Tools: Git, GitHub, VS Code
+</p>
+
+<h2 align="left">Current Focus</h2>
+
+<p align="left">
+🔭 Working on academic and personal projects<br>
+🌱 Learning Full-Stack Development and Core Computer Science subjects<br>
+👯 Open to collaborating on student and open-source projects<br>
+💬 Ask me about C, C++, Java, Web Development, and GitHub
+</p>
+
+<h2 align="left">Connect With Me</h2>
+
+<p align="left">
+📫 LinkedIn: Your LinkedIn Profile Link<br>
+📧 Email: Your Email Address
+</p>
